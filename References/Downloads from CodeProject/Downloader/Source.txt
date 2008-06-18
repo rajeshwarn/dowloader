@@ -1,0 +1,6 @@
+http://www.codeproject.com/KB/cs/Downloader.aspx
+
+Downloader Component
+By Hadi Eskandari
+
+A component to download files over the network with support for proxies, SSL and resume.

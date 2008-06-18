@@ -1,0 +1,6 @@
+http://www.codeproject.com/KB/IP/downloader.aspx
+
+Easy-to-use resumable .NET file downloader
+By Phil Crosby
+
+A simple, easy-to-use, resumable .NET file downloader.
